@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "private": true,
     "scripts": {
-        "start": "app.js"
+        "start": "node app.js"
       },
     "dependencies": {
         "dotenv": "^7.0.0",
