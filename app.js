@@ -8,7 +8,8 @@ const app = express()
 
 app.get('/', async (req, res) => {
     // await connectToDatabase()
-    // const notes = await Note.find()
+    //  const notes = await Note.find()
+    // test
     res.send({ hi: "hello lomkovsky" })
 })
 
